@@ -1,5 +1,3 @@
-Dynamic resources scraped by the bot.
-
 ##### Emotes.json
 A list of Twitch emotes, as of `2015-06-11 01:14:00 UTC`. Will be updated daily soon.
 
