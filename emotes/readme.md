@@ -1,5 +1,5 @@
 # Emotes
-Lists of emotes from streaming sites that NerdBot supports.
+Lists of emotes from streaming sites that Nerdbot supports.
 
 ### [twitch.json](twitch.json)
-Emotes from [TwitchTV](http://twitch.tv).
+Emotes from [Twitch](http://twitch.tv).
